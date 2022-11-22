@@ -96,7 +96,7 @@ npm start
 
 
 ## CREADOR Y PROPIETARIO DE ESTE BOT
-[![alex](TNyaYDXmR9IS3iDnTuiz5xPEEyEYM3FZwBGqf--D0BAuboJ-JQi61ZibSoDTl_PyiXAdVNwpYDswNu0gzKwxIIDw/s556/Screenshot_20220520-084448-806.png?size=100)](https://github.com/OdinTm)
+[![alex](https://github.com/Herrera1234?size=100)](https://github.com/OdinTm)
 
 ## BODYSUIT BOT 2022 BY: @hidra
 [![alex](https://github.com/Herrera1234/bodysuit-3-0/blob/c1b5f6e51a0b29a8fc638dd5f54208fb47df1bdb/menu.jpg?size=300)](https://github.com/OdinTm/INFINIXBOT2022-MD)
