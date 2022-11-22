@@ -19,12 +19,12 @@ NO ESTA HECHO CON DICHO FIN*
 
 ##Grupo Oficial de Whatsapp
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://chat.whatsapp.com/I4KSkoYf1HzD9EeSgv4CvA)
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I4KSkoYf1HzD9EeSgv4CvA)
  PROHIBIDO +212
 
 
 #### Deploy en Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OdinTm/INFINIXBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Herrera1234/bodysuit_3-0_spy)
 
 ## SI FALLA EL DEPLOY
 
