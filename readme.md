@@ -55,8 +55,8 @@ $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ pkg install yarn
-$ git clone https://github.com/OdinTm/INFINIXBOT-MD.git (si descargas el archivo zip: cd storage)
-$ cd INFINIXBOT-MD
+$ git clone https://github.com/Herrera1234/bodysuit_3-0_spy (si descargas el archivo zip: cd storage)
+$ cd boddysuit_3-0_spy
 $ npm install NOTA: si aparece error "symlink" ejecutar: npm install --no-bin-links
 $ npm start
 ```
@@ -82,8 +82,8 @@ $ yarn install
 --Una vez instalados abre la terminal bash o en visual studio, y ejecuta los siguientes
 comandos: 
 ```bash 
-git clone https://github.com/OdinTm/INFINIXBOT-MD
-cd INFINIXBOT-MD
+git clone https://github.com/Herrera1234/bodysuit_3-0_spy
+cd boddysuit_3-0_spy
 npm install
 npm update
 npm start
@@ -98,7 +98,7 @@ npm start
 ## CREADOR Y PROPIETARIO DE ESTE BOT
 [![ODIN](https://github.com/OdinTm.png?size=100)](https://github.com/OdinTm)
 
-## INFINIX BOT 2022 BY: @Odin
+## BODYSUIT BOT 2022 BY: @Odin
 [![ODIN](https://github.com/Herrera1234/bodysuit-3-0/blob/c1b5f6e51a0b29a8fc638dd5f54208fb47df1bdb/menu.jpg?size=300)](https://github.com/OdinTm/INFINIXBOT2022-MD)
 
 
