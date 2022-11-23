@@ -96,7 +96,9 @@ npm start
 
 
 ## CREADOR Y PROPIETARIO DE ESTE BOT
-[![alex](?size=100)](https://github.com/MUNDIAL18)
+<p align="center">
+<a href="https://github.com/thechoute/"><img title="Author" src="https://img.shields.io/badge/Author-alex_garcia-red.svg?style=for-the-badge&logo=github"></a>
+
 
 ## BODYSUIT BOT 2022 BY: @hidra
 [![alex](https://github.com/Herrera1234/bodysuit-3-0/blob/c1b5f6e51a0b29a8fc638dd5f54208fb47df1bdb/menu.jpg?size=300)](https://github.com/OdinTm/INFINIXBOT2022-MD)
