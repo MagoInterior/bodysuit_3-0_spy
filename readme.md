@@ -38,6 +38,11 @@ tutorial : https://www.youtube.com/watch?v=aUW5GAFhu6s
 ```
 ---------
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/bodysuit_3-0_spy)](https://repl.it/github/MagoInterior/bodysuit_3-0_spy) 
+
+
 #### Heroku Buildpack
 | BuildPack | LINK |
 |--------|--------|
